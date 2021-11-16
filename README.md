@@ -33,7 +33,7 @@ $ git status
 
 $ git add .
 
-$ git commit -m "Commiting java file and class"
+$ git commit -m "First commit"
 
 $ git remote add origin https://github.com/cohogainLYIT/CI_tutorial.git
 
