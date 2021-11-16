@@ -39,8 +39,3 @@ $ git remote add origin https://github.com/cohogainLYIT/CI_tutorial.git
 
 $ git push -u origin master
 
-
-
-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
-
-
